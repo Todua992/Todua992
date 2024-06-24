@@ -10,6 +10,20 @@
     I am a software engineering student at Aalborg University Copenhagen.
 </p>
 
+<p align="left" style="display: flex; align-items: center;">
+    CEO & Co-Founder of 
+    <a href="https://secureid.dk" style="margin-left: 5px;">
+        <img src="https://secureid.dk/secure.svg" height="20" alt="SecureID logo" style="vertical-align: middle; position: relative; top: 3px;" />
+    </a>.
+</p>
+
+
+
+
+
+
+
+
 ## 🎓 Education
 
 - **BSc. Software Engineering**  
