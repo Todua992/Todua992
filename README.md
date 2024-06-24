@@ -1,21 +1,20 @@
+# Hello There 👋🏻
 
-###
 
-<h1 align="center">Hello There 👋🏻</h1>
+### My name is Luka Gotsiridze
 
-###
+I am a software engineering student at Aalborg University Copenhagen.
 
-<h3 align="left">My name is Luka Gotsiridze</h3>
-<p align="left">
-    I am a software engineering student at Aalborg University Copenhagen.
-</p>
+<div align="center">
+    
+## **CEO & Co-Founder of**
 
-<p align="left" style="display: flex; align-items: center;">
-    CEO & Co-Founder of 
-    <a href="https://secureid.dk" style="margin-left: 5px;">
-        <img src="https://secureid.dk/secure.svg" height="20" alt="SecureID logo" style="vertical-align: middle; position: relative; top: 3px;" />
-    </a>.
-</p>
+<a href="https://secureid.dk">
+    <img src="https://secureid.dk/secure.svg" height="100" alt="SecureID logo" />
+</a>
+
+</div>
+
 
 
 
