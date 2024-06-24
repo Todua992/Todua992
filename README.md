@@ -6,10 +6,31 @@
 ###
 
 <h3 align="left">My name is Luka Gotsiridze</h3>
+<p align="left">
+    I am a software engineering student at Aalborg University Copenhagen.
+</p>
 
-###
+## 🎓 Education
 
-<p align="left">And I am a software engineering student at Aalborg University Copenhagen <br><br><br>## 🎓 Education<br><br>- **BSc. Software Engineering**  <br>  Aalborg University Copenhagen  <br>  *Sep. 2022 - Present*<br>  <br>- **High School, Mathematics A and Programming B**  <br>  H. C. Ørsted Gymnasium Lyngby  <br>  *Aug. 2019 - Jun. 2022*<br><br><br>## 💻 What's my skills?<br><br>- **Languages:** C/C++, Java, JavaScript/TypeScript, HTML/CSS, Processing3/4, Python, SQL, Ocaml & LaTeX<br>- **Tools:** Git/GitHub, GitHub Actions, Azure, Express.js, Node.js, React, Redux, Spring boot, JEST, JUnit, Ounit2, RESTful, JavaFX, Unreal Engine 4 & 5, MySQL, MongoDB, OCamllex, Menhir, UML & OpenAi's LLMs<br><br><br>## 📫 My contact information<br><br>You are welcome to reach me at todualuka@secureid.dk <br>Alternatively you can <br>connect with me on LinkedIn.<br>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagotsiridze/)</p>
+- **BSc. Software Engineering**  
+  Aalborg University Copenhagen  
+  *Sep. 2022 - Present*
+
+- **High School, Mathematics A and Programming B**  
+  H. C. Ørsted Gymnasium Lyngby  
+  *Aug. 2019 - Jun. 2022*
+
+## 💻 What's my skills?
+
+- **Languages:** C/C++, Java, JavaScript/TypeScript, HTML/CSS, Processing3/4, Python, SQL, OCaml, LaTeX
+
+- **Tools:** Git/GitHub, GitHub Actions, Azure, Express.js, Node.js, React, Redux, Spring Boot, JEST, JUnit, Ounit2, RESTful, JavaFX, Unreal Engine 4 & 5, MySQL, MongoDB, OCamllex, Menhir, UML, OpenAI's LLMs
+
+## 📫 My contact information
+
+You are welcome to reach me at [todualuka@secureid.dk](mailto:todualuka@secureid.dk)  
+Alternatively, you can connect with me on LinkedIn.  [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagotsiridze/)
+
 
 ###
 
