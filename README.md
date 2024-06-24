@@ -32,11 +32,8 @@ You are welcome to reach me at [todualuka@secureid.dk](mailto:todualuka@secureid
 Alternatively, you can connect with me on LinkedIn.  [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukagotsiridze/)
 
 
-###
+## 🛠 Language and tools</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
