@@ -30,7 +30,7 @@ I am a software engineering student at Aalborg University Copenhagen.
   *Sep. 2022 - Present*
 
 - **High School, Mathematics A and Programming B**  
-  H. C. Ørsted Gymnasium Lyngby  
+  NEXt SukkerToppen Gymnasium  
   *Aug. 2019 - Jun. 2022*
 
 ## 💻 What's my skills?
