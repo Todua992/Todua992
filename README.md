@@ -41,7 +41,7 @@ I am a software engineering student at Aalborg University Copenhagen.
 
 ## 📫 My contact information
 
-You are welcome to reach me at [todualuka@secureid.dk](mailto:todualuka@secureid.dk)  
+You are welcome to reach me at [todualuka@secureid.dk](mailto:todualuka992@gmail.com)  
 Alternatively, you can connect with me on LinkedIn.  
 
 
