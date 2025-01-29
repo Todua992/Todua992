@@ -1,4 +1,5 @@
-# Hello There 👋🏻
+# Hello There 👋🏻 <span style="display:inline-block; width:50%; text-align:right;">[**‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ Portofolio**](https://todua.tech)</span>
+
 
 
 ### My name is Luka Gotsiridze
@@ -7,7 +8,7 @@ I am a software engineering student at Aalborg University Copenhagen.
 
 <div align="center">
     
-## **CEO & Co-Founder of**
+## **COO & Co-Founder of**
 
 <a href="https://secureid.dk">
     <img src="https://secureid.dk/secure.svg" height="100" alt="SecureID logo" />
